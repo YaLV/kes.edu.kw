@@ -1,0 +1,7 @@
+body {
+  background: url("/images/bg-left.png") top left repeat-y, url("/images/bg-right.png") top right repeat-y;
+}
+
+section#header .header, ul.floating {
+  background: url("/images/bg-left.png") -460px 0 repeat-y, url("/images/bg-right.png") 500px 0 repeat-y;
+}
